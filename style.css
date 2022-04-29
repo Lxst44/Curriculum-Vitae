@@ -1,0 +1,91 @@
+body {
+    background-color: cornflowerblue
+}
+
+header {
+    background-color: darkslateblue;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: azure;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: center;
+    color: azure;
+    font-size: 35px;
+}
+
+.navigation_links {
+    text-align: center;
+    font-size: 20px;
+}
+
+.navigation_links > a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+#about {
+    background-color: darkslateblue;
+}
+
+.photo {
+    font-size: 25px;
+    font-weight: bold;
+    color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .photo figcaption {
+    
+} */
+
+#about p {
+    position: relative;
+    bottom: 125px;
+    left: 200px;
+    font-size: 30px;
+    color: white;
+}
+
+#education {
+    background-color: darkslateblue;
+}
+
+#education p {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+#experience {
+    background-color: darkslateblue;
+}
+
+#experience div {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+#contacts {
+    background-color: darkslateblue;
+}
+
+#contacts a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+
